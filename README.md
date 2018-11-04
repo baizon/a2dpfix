@@ -1,5 +1,5 @@
 # a2dpfix
-This is the fix for my Sony WH-1000XM2 headphones on my Manjaro system.
+This is a fix of the High Fidelity Playback A2DP Sink (unavailable) for my Sony WH-1000XM2 headphones.<br>
 Big thanks to Diego Fernandez for the code.
 
 ## Install
@@ -9,4 +9,3 @@ Big thanks to Diego Fernandez for the code.
 ## Links
 Source: https://github.com/aiguofer/dotfiles <br>
 Link: https://gitlab.freedesktop.org/pulseaudio/pulseaudio/issues/525
-
