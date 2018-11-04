@@ -11,6 +11,6 @@ for PID in $(pgrep pulseaudio); do
 
     sleep 5
     if [[ ! -z $USER ]]; then
-        sudo -u $USER -E /usr/local/bin/a2dp-fix
+        sudo -u $USER -E /home/baizon/GitHub/a2dpfix/a2dp-fix
     fi
 done

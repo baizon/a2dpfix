@@ -1,1 +1,1 @@
-ACTION=="add", SUBSYSTEM=="bluetooth", RUN+="/usr/local/bin/a2dp-fix-wrapper"
+ACTION=="add", SUBSYSTEM=="bluetooth", RUN+="/home/baizon/GitHub/a2dpfix/a2dp-fix-wrapper"
