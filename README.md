@@ -1,5 +1,5 @@
 # a2dpfix
-This is a fix of the High Fidelity Playback A2DP Sink (unavailable) for my Sony WH-1000XM2 headphones.<br>
+This is a fix of the High Fidelity Playback A2DP Sink (unavailable) Bug. It works for my Sony WH-1000XM2 headphones on my Majaro system.<br>
 Big thanks to Diego Fernandez for the code.
 
 ## Install
